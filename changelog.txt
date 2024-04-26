@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2024-04-20
+  Features:
+    - Added: Picker Belt Reversal
+    - Added: Picker Auto Manual Mode
+    - Added: Picker Zapper
+    - Check Dependencies tab for more info.
+  Other:
+    - TODO: auto_manual_mode_restore_when_exit
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2023-09-10
+  Other:
+    - Imported Template
